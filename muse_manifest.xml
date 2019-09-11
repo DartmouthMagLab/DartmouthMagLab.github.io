@@ -1,0 +1,64 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://eps.berkeley.edu/~sslotz" resolutions="1x" timestamp="1554676937557">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_main.css" crc="4261122642" ref="cv:index:contact"/>
+    <file name="cv.css" crc="386553226" ref="cv"/>
+    <file name="index.css" crc="254115667" ref="index"/>
+    <file name="contact.css" crc="4256260023" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="cv_2017-5_web.pdf" crc="3926855912" seo="true" mt="1496003683000"/>
+    <file name="slotznick_nwgeology-2015.pdf" crc="168263411" seo="true" mt="1460157206000"/>
+    <file name="slotznick_gsasp522_2016.pdf" crc="3889205830" seo="true" mt="1489184513000"/>
+    <file name="cv_2017-10_slotznick.pdf" crc="377954248" seo="true" mt="1509307108000"/>
+    <file name="cv_2018-1_slotznick.pdf" crc="3897908363" seo="true" mt="1517262913000"/>
+    <file name="cv_2018-12_slotznick.pdf" crc="341327816" seo="true" mt="1543903983000"/>
+    <file name="cv_2019-1_slotznick.pdf" crc="159510499" seo="true" mt="1549081300000"/>
+    <file name="cv_2019-2_slotznick.pdf" crc="430570574" seo="true" mt="1551146159000"/>
+    <file name="cv_2019-4_slotznick.pdf" crc="180708772" seo="true" mt="1554675952000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>cv:phone>contact:tablet>index:tablet>cv:tablet>contact:index:cv:contact"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>cv:phone>contact:tablet>index:tablet>cv:tablet>contact:index:cv:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>cv:phone>contact:tablet>index:tablet>cv:tablet>contact:index:cv:contact"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>cv:phone>contact:tablet>index:tablet>cv:tablet>contact:index:cv:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>cv:phone>contact:tablet>index:tablet>cv:tablet>contact:index:cv:contact"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>cv:phone>contact:tablet>index:tablet>cv:tablet>contact:index:cv:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="dscn4855_crop-crop-u555.png" crc="3840940051" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dscn4855_crop-crop-u456.png" crc="4097830463" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dscn4855_crop-crop-u852.png" crc="354969483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_main.css" crc="3872217230" ref="tablet>index:tablet>cv:tablet>contact"/>
+      <file name="index.css" crc="4261002045" ref="tablet>index"/>
+      <file name="cv.css" crc="3963290097" ref="tablet>cv"/>
+      <file name="contact.css" crc="418744187" ref="tablet>contact"/>
+    </folder>
+    <file name="index.html" crc="417732294" seo="true" mt="1496008218304" redirect="true"/>
+    <file name="cv.html" crc="3841676304" seo="true" mt="1554676868100" redirect="true"/>
+    <file name="contact.html" crc="150167647" seo="true" mt="1496009377040" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_main.css" crc="3773556993" ref="phone>contact:phone>index:phone>cv"/>
+      <file name="contact.css" crc="20753897" ref="phone>contact"/>
+      <file name="index.css" crc="454177976" ref="phone>index"/>
+      <file name="cv.css" crc="65623029" ref="phone>cv"/>
+    </folder>
+    <file name="index.html" crc="4045629392" seo="true" mt="1496009201843" redirect="true"/>
+    <file name="cv.html" crc="4131939167" seo="true" mt="1554676877577" redirect="true"/>
+    <file name="contact.html" crc="510834229" seo="true" mt="1496009876796" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="440410237" seo="true" mt="1496011954241" redirect="true"/>
+  <file name="cv.html" crc="4180595482" seo="true" mt="1554676852663" redirect="true"/>
+  <file name="contact.html" crc="352307003" seo="true" mt="1509307651469" redirect="true"/>
+</manifest>

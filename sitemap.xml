@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://eps.berkeley.edu/~sslotz/index.html</loc>
+    <lastmod>2017-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eps.berkeley.edu/~sslotz/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://eps.berkeley.edu/~sslotz/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://eps.berkeley.edu/~sslotz/images/dscn4855_crop-crop-u852.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://eps.berkeley.edu/~sslotz/contact.html</loc>
+    <lastmod>2017-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eps.berkeley.edu/~sslotz/phone/contact.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://eps.berkeley.edu/~sslotz/tablet/contact.html"/>
+  </url>
+  <url>
+    <loc>http://eps.berkeley.edu/~sslotz/cv.html</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eps.berkeley.edu/~sslotz/phone/cv.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://eps.berkeley.edu/~sslotz/tablet/cv.html"/>
+  </url>
+  <url>
+    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2017-10_slotznick.pdf</loc>
+    <lastmod>2017-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2018-1_slotznick.pdf</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2017-5_web.pdf</loc>
+    <lastmod>2017-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eps.berkeley.edu/~sslotz/assets/slotznick_gsasp522_2016.pdf</loc>
+    <lastmod>2017-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2019-2_slotznick.pdf</loc>
+    <lastmod>2019-02-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2019-4_slotznick.pdf</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eps.berkeley.edu/~sslotz/assets/slotznick_nwgeology-2015.pdf</loc>
+    <lastmod>2016-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2018-12_slotznick.pdf</loc>
+    <lastmod>2018-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2019-1_slotznick.pdf</loc>
+    <lastmod>2019-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
