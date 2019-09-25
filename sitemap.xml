@@ -1,83 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://eps.berkeley.edu/~sslotz/index.html</loc>
-    <lastmod>2017-05-28</lastmod>
+    <loc>https://dartmouthmaglab.github.io/index.html</loc>
+    <lastmod>2019-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eps.berkeley.edu/~sslotz/phone/index.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://eps.berkeley.edu/~sslotz/tablet/index.html"/>
     <image:image>
-      <image:loc>http://eps.berkeley.edu/~sslotz/images/dscn4855_crop-crop-u852.png</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u55790.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u557902.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u557903.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u557904.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u557905.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u557906.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u557907.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u57243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u572432.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://eps.berkeley.edu/~sslotz/contact.html</loc>
-    <lastmod>2017-10-29</lastmod>
+    <loc>https://dartmouthmaglab.github.io/people.html</loc>
+    <lastmod>2019-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eps.berkeley.edu/~sslotz/phone/contact.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://eps.berkeley.edu/~sslotz/tablet/contact.html"/>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/headshot_dscn3387_3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://eps.berkeley.edu/~sslotz/cv.html</loc>
-    <lastmod>2019-04-07</lastmod>
+    <loc>https://dartmouthmaglab.github.io/research.html</loc>
+    <lastmod>2019-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://eps.berkeley.edu/~sslotz/phone/cv.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://eps.berkeley.edu/~sslotz/tablet/cv.html"/>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_5768.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pasted%20image%201151x819.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dsc_8687.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2017-10_slotznick.pdf</loc>
-    <lastmod>2017-10-29</lastmod>
+    <loc>https://dartmouthmaglab.github.io/facilities.html</loc>
+    <lastmod>2019-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dartmouthmaglab.github.io/contact.html</loc>
+    <lastmod>2019-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dartmouthmaglab.github.io/publications.html</loc>
+    <lastmod>2019-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dartmouthmaglab.github.io/assets/d-pine_rev.eps</loc>
+    <lastmod>2017-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2018-1_slotznick.pdf</loc>
-    <lastmod>2018-01-29</lastmod>
+    <loc>https://dartmouthmaglab.github.io/assets/cv_2019-9_slotznick.pdf</loc>
+    <lastmod>2019-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2017-5_web.pdf</loc>
-    <lastmod>2017-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://eps.berkeley.edu/~sslotz/assets/slotznick_gsasp522_2016.pdf</loc>
+    <loc>https://dartmouthmaglab.github.io/assets/slotznick-et-al-(2016)-iron-min-and-redox-of-appekunny-gnp-(with-page-s).pdf</loc>
     <lastmod>2017-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2019-2_slotznick.pdf</loc>
-    <lastmod>2019-02-25</lastmod>
+    <loc>https://dartmouthmaglab.github.io/assets/slotznick_gsasp522_2016.pdf</loc>
+    <lastmod>2017-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2019-4_slotznick.pdf</loc>
-    <lastmod>2019-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://eps.berkeley.edu/~sslotz/assets/slotznick_nwgeology-2015.pdf</loc>
+    <loc>https://dartmouthmaglab.github.io/assets/slotznick_nwgeology-2015.pdf</loc>
     <lastmod>2016-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2018-12_slotznick.pdf</loc>
-    <lastmod>2018-12-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://eps.berkeley.edu/~sslotz/assets/cv_2019-1_slotznick.pdf</loc>
-    <lastmod>2019-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

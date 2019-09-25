@@ -1,64 +1,442 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://eps.berkeley.edu/~sslotz" resolutions="1x" timestamp="1554676937557">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://dartmouthmaglab.github.io" resolutions="1x" timestamp="1569452953843">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_main.css" crc="4261122642" ref="cv:index:contact"/>
-    <file name="cv.css" crc="386553226" ref="cv"/>
-    <file name="index.css" crc="254115667" ref="index"/>
-    <file name="contact.css" crc="4256260023" ref="contact"/>
+    <file name="master_footeronly.css" crc="504831940" ref="index"/>
+    <file name="nomq_preview_master_footeronly.css" crc="462101298" ref="index"/>
+    <file name="master_a-master.css" crc="3892978773" ref="facilities:contact:people:publications:research"/>
+    <file name="nomq_preview_master_a-master.css" crc="4142599524" ref="facilities:contact:people:publications:research"/>
+    <file name="facilities.css" crc="401949213" ref="facilities"/>
+    <file name="nomq_facilities.css" crc="364178016" ref="facilities"/>
+    <file name="contact.css" crc="28776096" ref="contact"/>
+    <file name="nomq_contact.css" crc="135233186" ref="contact"/>
+    <file name="people.css" crc="36551683" ref="people"/>
+    <file name="nomq_people.css" crc="4129668305" ref="people"/>
+    <file name="publications.css" crc="226264251" ref="publications"/>
+    <file name="nomq_publications.css" crc="4258262133" ref="publications"/>
+    <file name="index.css" crc="3896051658" ref="index"/>
+    <file name="nomq_index.css" crc="178101761" ref="index"/>
+    <file name="research.css" crc="4106426679" ref="research"/>
+    <file name="nomq_research.css" crc="3979505592" ref="research"/>
   </folder>
   <folder name="assets">
-    <file name="cv_2017-5_web.pdf" crc="3926855912" seo="true" mt="1496003683000"/>
+    <file name="d-pine_rev.eps" crc="4178829978" seo="true" mt="1510157625000"/>
     <file name="slotznick_nwgeology-2015.pdf" crc="168263411" seo="true" mt="1460157206000"/>
+    <file name="slotznick-et-al-(2016)-iron-min-and-redox-of-appekunny-gnp-(with-page-s).pdf" crc="3889205830" seo="true" mt="1489184513000"/>
     <file name="slotznick_gsasp522_2016.pdf" crc="3889205830" seo="true" mt="1489184513000"/>
-    <file name="cv_2017-10_slotznick.pdf" crc="377954248" seo="true" mt="1509307108000"/>
-    <file name="cv_2018-1_slotznick.pdf" crc="3897908363" seo="true" mt="1517262913000"/>
-    <file name="cv_2018-12_slotznick.pdf" crc="341327816" seo="true" mt="1543903983000"/>
-    <file name="cv_2019-1_slotznick.pdf" crc="159510499" seo="true" mt="1549081300000"/>
-    <file name="cv_2019-2_slotznick.pdf" crc="430570574" seo="true" mt="1551146159000"/>
-    <file name="cv_2019-4_slotznick.pdf" crc="180708772" seo="true" mt="1554675952000"/>
+    <file name="cv_2019-9_slotznick.pdf" crc="3966538712" seo="true" mt="1568253958000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>cv:phone>contact:tablet>index:tablet>cv:tablet>contact:index:cv:contact"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:phone>cv:phone>contact:tablet>index:tablet>cv:tablet>contact:index:cv:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>cv:phone>contact:tablet>index:tablet>cv:tablet>contact:index:cv:contact"/>
-    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>cv:phone>contact:tablet>index:tablet>cv:tablet>contact:index:cv:contact"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>cv:phone>contact:tablet>index:tablet>cv:tablet>contact:index:cv:contact"/>
-    <file name="require.js" crc="7928878" ref="phone>index:phone>cv:phone>contact:tablet>index:tablet>cv:tablet>contact:index:cv:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="people:research:facilities:publications:contact:index"/>
+    <file name="museutils.js" crc="340535759" ref="people:research:facilities:publications:contact:index"/>
+    <file name="whatinput.js" crc="86476730" ref="people:research:facilities:publications:contact:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="people:research:facilities:publications:contact:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="people:research:facilities:publications:contact:index"/>
+    <file name="webpro.js" crc="4059564322" ref="people:research:facilities:publications:contact:index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="people:research:facilities:publications:contact:index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="people:research:facilities:publications:contact:index"/>
+    <file name="require.js" crc="7928878" ref="people:research:facilities:publications:contact:index"/>
   </folder>
   <folder name="images">
-    <file name="dscn4855_crop-crop-u555.png" crc="3840940051" seo="true" ref="phone>index">
+    <file name="img_20150724_135012-crop-u153.jpg" crc="4057707492" seo="true" ref="people:research:facilities:publications:contact">
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="u169-8.png" crc="206939619" ref="people:research:facilities:publications:contact"/>
+    <file name="blank.gif" crc="4208392903" ref="people:research:facilities:publications:contact:index"/>
+    <file name="u209_states.png" crc="4155678695" ref="people:research:facilities:publications:contact"/>
+    <file name="u209_states-r.png" crc="346741588" ref="people:research:facilities:publications:contact"/>
+    <file name="u209_states-a.png" crc="346741588" ref="people:research:facilities:publications:contact"/>
+    <file name="u212_states.png" crc="293603418" ref="people:research:facilities:publications:contact"/>
+    <file name="u212_states-r.png" crc="447880752" ref="people:research:facilities:publications:contact"/>
+    <file name="u212_states-a.png" crc="447880752" ref="people:research:facilities:publications:contact"/>
+    <file name="u215_states.png" crc="3776850238" ref="people:research:facilities:publications:contact"/>
+    <file name="u215_states-r.png" crc="124609480" ref="people:research:facilities:publications:contact"/>
+    <file name="u215_states-a.png" crc="124609480" ref="people:research:facilities:publications:contact"/>
+    <file name="u230_states.png" crc="4135680541" ref="people:research:facilities:publications:contact"/>
+    <file name="u230_states-r.png" crc="4235157180" ref="people:research:facilities:publications:contact"/>
+    <file name="u230_states-a.png" crc="4235157180" ref="people:research:facilities:publications:contact"/>
+    <file name="u231_states.png" crc="130614599" ref="people:research:facilities:publications:contact"/>
+    <file name="u231_states-r.png" crc="214071741" ref="people:research:facilities:publications:contact"/>
+    <file name="u231_states-a.png" crc="214071741" ref="people:research:facilities:publications:contact"/>
+    <file name="u1020_states.png" crc="3934703229" ref="people:research:facilities:publications:contact"/>
+    <file name="u1020_states-r.png" crc="336692993" ref="people:research:facilities:publications:contact"/>
+    <file name="u1020_states-a.png" crc="336692993" ref="people:research:facilities:publications:contact"/>
+    <file name="headshot_dscn3387_3.jpg" crc="4035337726" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="lonepine_black.png" crc="325230627" seo="true" ref="people:research:facilities:publications:contact:index">
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="dartmouth_wordmark_blk.png" crc="3978973633" seo="true" ref="people:research:facilities:publications:contact:index">
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="u6986-4.png" crc="98356106" ref="people:research:facilities:publications:contact"/>
+    <file name="u64424.png" crc="3999560037" ref="people:research:facilities:publications:contact"/>
+    <file name="u64424-r.png" crc="4160554419" ref="people:research:facilities:publications:contact"/>
+    <file name="u64424-m.png" crc="4160554419" ref="people:research:facilities:publications:contact"/>
+    <file name="u64424-a.png" crc="421335152" ref="people:research:facilities:publications:contact"/>
+    <file name="u64427_states.png" crc="399539846" ref="people:research:facilities:publications:contact"/>
+    <file name="u64427_states-r.png" crc="383864566" ref="people:research:facilities:publications:contact"/>
+    <file name="u64426_states.png" crc="4238782219" ref="people:research:facilities:publications:contact"/>
+    <file name="u64426_states-r.png" crc="306383098" ref="people:research:facilities:publications:contact"/>
+    <file name="u64429_states.png" crc="4078050106" ref="people:research:facilities:publications:contact"/>
+    <file name="u64429_states-r.png" crc="511640540" ref="people:research:facilities:publications:contact"/>
+    <file name="u64428_states.png" crc="240800642" ref="people:research:facilities:publications:contact"/>
+    <file name="u64428_states-r.png" crc="3833336955" ref="people:research:facilities:publications:contact"/>
+    <file name="u64431_states.png" crc="4232935213" ref="people:research:facilities:publications:contact"/>
+    <file name="u64431_states-r.png" crc="241490685" ref="people:research:facilities:publications:contact"/>
+    <file name="u64430_states.png" crc="4223756418" ref="people:research:facilities:publications:contact"/>
+    <file name="u64430_states-r.png" crc="492523026" ref="people:research:facilities:publications:contact"/>
+    <file name="img_5768.jpg" crc="390447996" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="pasted image 1151x819.jpg" crc="4095681692" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="pp13-11a14(up)bri-u45264.png" crc="4049494245" ref="research"/>
+    <file name="dsc_8687.jpg" crc="279559726" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="pp13-11a14(up)bri-u452642.png" crc="4049494245" ref="research"/>
+    <file name="pp13-11a14(up)bri-u452643.png" crc="4049494245" ref="research"/>
+    <file name="pp13-11a14(up)bri-u452644.png" crc="4049494245" ref="research"/>
+    <file name="pp13-11a14(up)bri-u452645.png" crc="4049494245" ref="research"/>
+    <file name="pp13-11a14(up)bri-u452646.png" crc="4049494245" ref="research"/>
+    <file name="pp13-11a14(up)bri-u452647.png" crc="4049494245" ref="research"/>
+    <file name="pp13-11a14(up)bri-u452648.png" crc="4049494245" ref="research"/>
+    <file name="u9016-4.png" crc="3839520429" ref="facilities"/>
+    <file name="u9016-42.png" crc="3839520429" ref="facilities"/>
+    <file name="u9016-43.png" crc="3839520429" ref="facilities"/>
+    <file name="u9016-44.png" crc="3839520429" ref="facilities"/>
+    <file name="u9016-45.png" crc="3839520429" ref="facilities"/>
+    <file name="u9016-46.png" crc="3839520429" ref="facilities"/>
+    <file name="u9016-47.png" crc="3839520429" ref="facilities"/>
+    <file name="u9016-48.png" crc="3839520429" ref="facilities"/>
+    <file name="img_20150724_135012-crop-u55790.jpg" crc="69721239" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dscn4855_crop-crop-u456.png" crc="4097830463" seo="true" ref="tablet>index">
+    <file name="u55792-8.png" crc="140013440" ref="index"/>
+    <file name="u58022-4-a.png" crc="4027476178" ref="index"/>
+    <file name="u58017_states.png" crc="522302148" ref="index"/>
+    <file name="u58017_states-r.png" crc="4221543942" ref="index"/>
+    <file name="u58018_states.png" crc="393669967" ref="index"/>
+    <file name="u58018_states-r.png" crc="24186424" ref="index"/>
+    <file name="u58019_states.png" crc="186328038" ref="index"/>
+    <file name="u58019_states-r.png" crc="4265261901" ref="index"/>
+    <file name="u58020_states.png" crc="88152927" ref="index"/>
+    <file name="u58020_states-r.png" crc="4261443763" ref="index"/>
+    <file name="u58021_states.png" crc="141592349" ref="index"/>
+    <file name="u58021_states-r.png" crc="3826539837" ref="index"/>
+    <file name="u56140-4.png" crc="98356106" ref="index"/>
+    <file name="img_20150724_135012-crop-u557902.jpg" crc="389081383" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dscn4855_crop-crop-u852.png" crc="354969483" seo="true" ref="index">
+    <file name="u55792-82.png" crc="140013440" ref="index"/>
+    <file name="u58022-4-a2.png" crc="4027476178" ref="index"/>
+    <file name="u58017_states2.png" crc="522302148" ref="index"/>
+    <file name="u58017_states-r2.png" crc="4221543942" ref="index"/>
+    <file name="u58018_states2.png" crc="393669967" ref="index"/>
+    <file name="u58018_states-r2.png" crc="24186424" ref="index"/>
+    <file name="u58019_states2.png" crc="186328038" ref="index"/>
+    <file name="u58019_states-r2.png" crc="4265261901" ref="index"/>
+    <file name="u58020_states2.png" crc="88152927" ref="index"/>
+    <file name="u58020_states-r2.png" crc="4261443763" ref="index"/>
+    <file name="u58021_states2.png" crc="141592349" ref="index"/>
+    <file name="u58021_states-r2.png" crc="3826539837" ref="index"/>
+    <file name="img_20150724_135012-crop-u557903.jpg" crc="4271200550" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u55792-83.png" crc="140013440" ref="index"/>
+    <file name="u58022-4-a3.png" crc="4027476178" ref="index"/>
+    <file name="u58017_states3.png" crc="522302148" ref="index"/>
+    <file name="u58017_states-r3.png" crc="4221543942" ref="index"/>
+    <file name="u58018_states3.png" crc="393669967" ref="index"/>
+    <file name="u58018_states-r3.png" crc="24186424" ref="index"/>
+    <file name="u58019_states3.png" crc="186328038" ref="index"/>
+    <file name="u58019_states-r3.png" crc="4265261901" ref="index"/>
+    <file name="u58020_states3.png" crc="88152927" ref="index"/>
+    <file name="u58020_states-r3.png" crc="4261443763" ref="index"/>
+    <file name="u58021_states3.png" crc="141592349" ref="index"/>
+    <file name="u58021_states-r3.png" crc="3826539837" ref="index"/>
+    <file name="img_20150724_135012-crop-u557904.jpg" crc="4019700352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u55792-84.png" crc="140013440" ref="index"/>
+    <file name="u58022-4-a4.png" crc="4027476178" ref="index"/>
+    <file name="u58017_states4.png" crc="522302148" ref="index"/>
+    <file name="u58017_states-r4.png" crc="4221543942" ref="index"/>
+    <file name="u58018_states4.png" crc="393669967" ref="index"/>
+    <file name="u58018_states-r4.png" crc="24186424" ref="index"/>
+    <file name="u58019_states4.png" crc="186328038" ref="index"/>
+    <file name="u58019_states-r4.png" crc="4265261901" ref="index"/>
+    <file name="u58020_states4.png" crc="88152927" ref="index"/>
+    <file name="u58020_states-r4.png" crc="4261443763" ref="index"/>
+    <file name="u58021_states4.png" crc="141592349" ref="index"/>
+    <file name="u58021_states-r4.png" crc="3826539837" ref="index"/>
+    <file name="img_20150724_135012-crop-u557905.jpg" crc="3874713944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u55792-85.png" crc="140013440" ref="index"/>
+    <file name="u58022-4-a5.png" crc="3830751594" ref="index"/>
+    <file name="u58017_states5.png" crc="4131838887" ref="index"/>
+    <file name="u58017_states-r5.png" crc="3815721148" ref="index"/>
+    <file name="u58018_states5.png" crc="133133037" ref="index"/>
+    <file name="u58018_states-r5.png" crc="4137117091" ref="index"/>
+    <file name="u58019_states5.png" crc="4188195196" ref="index"/>
+    <file name="u58019_states-r5.png" crc="531678967" ref="index"/>
+    <file name="u58020_states5.png" crc="4220025456" ref="index"/>
+    <file name="u58020_states-r5.png" crc="3904713351" ref="index"/>
+    <file name="u58021_states5.png" crc="297135169" ref="index"/>
+    <file name="u58021_states-r5.png" crc="500836571" ref="index"/>
+    <file name="img_20150724_135012-crop-u557906.jpg" crc="3874713944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u55792-86.png" crc="140013440" ref="index"/>
+    <file name="u59522.png" crc="357931296" ref="index"/>
+    <file name="u59522-r.png" crc="46894423" ref="index"/>
+    <file name="u59522-m.png" crc="46894423" ref="index"/>
+    <file name="u59522-a.png" crc="367099044" ref="index"/>
+    <file name="u59521-4-a.png" crc="472603731" ref="index"/>
+    <file name="u59516_states.png" crc="4131838887" ref="index"/>
+    <file name="u59516_states-r.png" crc="3815721148" ref="index"/>
+    <file name="u59517_states.png" crc="133133037" ref="index"/>
+    <file name="u59517_states-r.png" crc="4137117091" ref="index"/>
+    <file name="u59519_states.png" crc="4188195196" ref="index"/>
+    <file name="u59519_states-r.png" crc="531678967" ref="index"/>
+    <file name="u59520_states.png" crc="4220025456" ref="index"/>
+    <file name="u59520_states-r.png" crc="3904713351" ref="index"/>
+    <file name="u59518_states.png" crc="297135169" ref="index"/>
+    <file name="u59518_states-r.png" crc="500836571" ref="index"/>
+    <file name="img_20150724_135012-crop-u557907.jpg" crc="3874713944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u55792-87.png" crc="140013440" ref="index"/>
+    <file name="u595222.png" crc="357931296" ref="index"/>
+    <file name="u59522-r2.png" crc="46894423" ref="index"/>
+    <file name="u59522-m2.png" crc="46894423" ref="index"/>
+    <file name="u59522-a2.png" crc="367099044" ref="index"/>
+    <file name="u59521-4-a2.png" crc="472603731" ref="index"/>
+    <file name="u59516_states2.png" crc="4131838887" ref="index"/>
+    <file name="u59516_states-r2.png" crc="3815721148" ref="index"/>
+    <file name="u59517_states2.png" crc="133133037" ref="index"/>
+    <file name="u59517_states-r2.png" crc="4137117091" ref="index"/>
+    <file name="u59519_states2.png" crc="4188195196" ref="index"/>
+    <file name="u59519_states-r2.png" crc="531678967" ref="index"/>
+    <file name="u59520_states2.png" crc="4220025456" ref="index"/>
+    <file name="u59520_states-r2.png" crc="3904713351" ref="index"/>
+    <file name="u59518_states2.png" crc="297135169" ref="index"/>
+    <file name="u59518_states-r2.png" crc="500836571" ref="index"/>
+    <file name="img_20150724_135012-crop-u57243.jpg" crc="261539837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u57246-7.png" crc="3771325521" ref="index"/>
+    <file name="u57245-4.png" crc="19692658" ref="index"/>
+    <file name="u595223.png" crc="4085681959" ref="index"/>
+    <file name="u59522-r3.png" crc="404913513" ref="index"/>
+    <file name="u59522-m3.png" crc="404913513" ref="index"/>
+    <file name="u59522-a3.png" crc="297557267" ref="index"/>
+    <file name="u59521-4-a3.png" crc="399539846" ref="index"/>
+    <file name="u59516_states3.png" crc="4238782219" ref="index"/>
+    <file name="u59516_states-r3.png" crc="306383098" ref="index"/>
+    <file name="u59517_states3.png" crc="4078050106" ref="index"/>
+    <file name="u59517_states-r3.png" crc="511640540" ref="index"/>
+    <file name="u59519_states3.png" crc="240800642" ref="index"/>
+    <file name="u59519_states-r3.png" crc="3833336955" ref="index"/>
+    <file name="u59520_states3.png" crc="4232935213" ref="index"/>
+    <file name="u59520_states-r3.png" crc="241490685" ref="index"/>
+    <file name="u59518_states3.png" crc="4223756418" ref="index"/>
+    <file name="u59518_states-r3.png" crc="492523026" ref="index"/>
+    <file name="img_20150724_135012-crop-u572432.jpg" crc="476857279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u57246-72.png" crc="3771325521" ref="index"/>
+    <file name="u57245-42.png" crc="3990166628" ref="index"/>
+    <file name="u595224.png" crc="3999560037" ref="index"/>
+    <file name="u59522-r4.png" crc="4160554419" ref="index"/>
+    <file name="u59522-m4.png" crc="4160554419" ref="index"/>
+    <file name="u59522-a4.png" crc="421335152" ref="index"/>
+    <file name="u59521-4-a4.png" crc="399539846" ref="index"/>
+    <file name="u59516_states4.png" crc="4238782219" ref="index"/>
+    <file name="u59516_states-r4.png" crc="306383098" ref="index"/>
+    <file name="u59517_states4.png" crc="4078050106" ref="index"/>
+    <file name="u59517_states-r4.png" crc="511640540" ref="index"/>
+    <file name="u59519_states4.png" crc="240800642" ref="index"/>
+    <file name="u59519_states-r4.png" crc="3833336955" ref="index"/>
+    <file name="u59520_states4.png" crc="4232935213" ref="index"/>
+    <file name="u59520_states-r4.png" crc="241490685" ref="index"/>
+    <file name="u59518_states4.png" crc="4223756418" ref="index"/>
+    <file name="u59518_states-r4.png" crc="492523026" ref="index"/>
   </folder>
-  <folder name="tablet">
-    <folder name="css">
-      <file name="master_main.css" crc="3872217230" ref="tablet>index:tablet>cv:tablet>contact"/>
-      <file name="index.css" crc="4261002045" ref="tablet>index"/>
-      <file name="cv.css" crc="3963290097" ref="tablet>cv"/>
-      <file name="contact.css" crc="418744187" ref="tablet>contact"/>
-    </folder>
-    <file name="index.html" crc="417732294" seo="true" mt="1496008218304" redirect="true"/>
-    <file name="cv.html" crc="3841676304" seo="true" mt="1554676868100" redirect="true"/>
-    <file name="contact.html" crc="150167647" seo="true" mt="1496009377040" redirect="true"/>
-  </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_main.css" crc="3773556993" ref="phone>contact:phone>index:phone>cv"/>
-      <file name="contact.css" crc="20753897" ref="phone>contact"/>
-      <file name="index.css" crc="454177976" ref="phone>index"/>
-      <file name="cv.css" crc="65623029" ref="phone>cv"/>
-    </folder>
-    <file name="index.html" crc="4045629392" seo="true" mt="1496009201843" redirect="true"/>
-    <file name="cv.html" crc="4131939167" seo="true" mt="1554676877577" redirect="true"/>
-    <file name="contact.html" crc="510834229" seo="true" mt="1496009876796" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="440410237" seo="true" mt="1496011954241" redirect="true"/>
-  <file name="cv.html" crc="4180595482" seo="true" mt="1554676852663" redirect="true"/>
-  <file name="contact.html" crc="352307003" seo="true" mt="1509307651469" redirect="true"/>
+  <file name="people.html" crc="137608117" seo="true" mt="1569452032940" redirect="true"/>
+  <file name="research.html" crc="333355008" seo="true" mt="1569452032940" redirect="true"/>
+  <file name="facilities.html" crc="4117449602" seo="true" mt="1569452032940" redirect="true"/>
+  <file name="publications.html" crc="3873124066" seo="true" mt="1569452032940" redirect="true"/>
+  <file name="contact.html" crc="286784002" seo="true" mt="1569452032940" redirect="true"/>
+  <file name="index.html" crc="4157008525" seo="true" mt="1569451261908" redirect="true"/>
 </manifest>
