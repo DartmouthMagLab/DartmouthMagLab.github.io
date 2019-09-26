@@ -40,24 +40,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://dartmouthmaglab.github.io/people.html</loc>
-    <lastmod>2019-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u153.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/headshot_dscn3387_3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>https://dartmouthmaglab.github.io/research.html</loc>
     <lastmod>2019-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -97,12 +79,15 @@
     </image:image>
   </url>
   <url>
-    <loc>https://dartmouthmaglab.github.io/contact.html</loc>
+    <loc>https://dartmouthmaglab.github.io/people.html</loc>
     <lastmod>2019-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/headshot_dscn3387_3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
@@ -127,8 +112,23 @@
     </image:image>
   </url>
   <url>
-    <loc>https://dartmouthmaglab.github.io/assets/d-pine_rev.eps</loc>
-    <lastmod>2017-11-08</lastmod>
+    <loc>https://dartmouthmaglab.github.io/contact.html</loc>
+    <lastmod>2019-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dartmouthmaglab.github.io/assets/slotznick_nwgeology-2015.pdf</loc>
+    <lastmod>2016-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -139,20 +139,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dartmouthmaglab.github.io/assets/slotznick-et-al-(2016)-iron-min-and-redox-of-appekunny-gnp-(with-page-s).pdf</loc>
-    <lastmod>2017-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://dartmouthmaglab.github.io/assets/slotznick_gsasp522_2016.pdf</loc>
     <lastmod>2017-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://dartmouthmaglab.github.io/assets/slotznick_nwgeology-2015.pdf</loc>
-    <lastmod>2016-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
