@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dartmouthmaglab.github.io/index.html</loc>
-    <lastmod>2019-09-25</lastmod>
+    <lastmod>2020-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -41,7 +41,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/research.html</loc>
-    <lastmod>2019-09-25</lastmod>
+    <lastmod>2020-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -65,7 +65,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/facilities.html</loc>
-    <lastmod>2019-09-25</lastmod>
+    <lastmod>2020-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/people.html</loc>
-    <lastmod>2019-09-25</lastmod>
+    <lastmod>2020-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/publications.html</loc>
-    <lastmod>2019-09-25</lastmod>
+    <lastmod>2020-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -113,7 +113,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/contact.html</loc>
-    <lastmod>2019-09-25</lastmod>
+    <lastmod>2020-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -125,6 +125,9 @@
     <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/580b57fcd9996e24bc43c53e.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/assets/slotznick_nwgeology-2015.pdf</loc>
@@ -133,8 +136,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dartmouthmaglab.github.io/assets/cv_2019-9_slotznick.pdf</loc>
-    <lastmod>2019-09-11</lastmod>
+    <loc>https://dartmouthmaglab.github.io/assets/cv_2020_2_slotznick.pdf</loc>
+    <lastmod>2020-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
