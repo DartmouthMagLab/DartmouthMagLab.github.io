@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dartmouthmaglab.github.io/index.html</loc>
-    <lastmod>2020-10-25</lastmod>
+    <lastmod>2021-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -40,32 +40,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://dartmouthmaglab.github.io/research.html</loc>
-    <lastmod>2020-10-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u153.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/img_5768.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/pasted%20image%201151x819.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/dsc_8687.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>https://dartmouthmaglab.github.io/facilities.html</loc>
-    <lastmod>2020-10-25</lastmod>
+    <lastmod>2021-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -81,12 +57,54 @@
       <image:loc>https://dartmouthmaglab.github.io/images/lab_construction_img_3586_v2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/lab_construction_img_3586_v2362x367.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u74689.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746892.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746893.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746894.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746895.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746896.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746897.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746898.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lab_construction_img_3586_v2349x354.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746899.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dartmouthmaglab.github.io/publications.html</loc>
+    <lastmod>2021-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/people.html</loc>
-    <lastmod>2020-10-25</lastmod>
+    <lastmod>2021-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -131,10 +149,37 @@
     <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/dylan%20on%20gile%2019w-crop-u683779.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/jack_picture_img_7413-crop-u73699.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/jack_picture_img_7413-crop-u736992.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/jack_picture_img_7413-crop-u736993.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/jack_picture_img_7413-crop-u736994.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/jack_picture_img_7413-crop-u736995.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/jack_picture_img_7413-crop-u736996.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/jack_picture_img_7413-crop-u736997.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/jack_picture_img_7413-crop-u736998.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/jack_picture_img_7413-crop-u736999.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>https://dartmouthmaglab.github.io/publications.html</loc>
-    <lastmod>2020-10-25</lastmod>
+    <loc>https://dartmouthmaglab.github.io/research.html</loc>
+    <lastmod>2021-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -146,10 +191,19 @@
     <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_5768.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pasted%20image%201151x819.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dsc_8687.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/contact.html</loc>
-    <lastmod>2020-10-25</lastmod>
+    <lastmod>2021-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -166,14 +220,134 @@
     </image:image>
   </url>
   <url>
+    <loc>https://dartmouthmaglab.github.io/teaching.html</loc>
+    <lastmod>2021-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_20150724_135012-crop-u153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pasted%20image%20959x427-crop-u73322.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/nasaastrobioimage_crop-crop-u73319.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_6983-crop-u76539.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lecture%205_minerals_fa2020_part2-crop-u73312.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/ooidcover_midjurassiccarmelfm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pa065658.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dscn2104.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pasted%20image%20959x427-crop-u733222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/nasaastrobioimage_crop-crop-u733192.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_6983-crop-u765392.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lecture%205_minerals_fa2020_part2-crop-u733122.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pasted%20image%20959x427-crop-u733223.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/nasaastrobioimage_crop-crop-u733193.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_6983-crop-u765393.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lecture%205_minerals_fa2020_part2-crop-u733123.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pasted%20image%20959x427-crop-u733224.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/nasaastrobioimage_crop-crop-u733194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_6983-crop-u765394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lecture%205_minerals_fa2020_part2-crop-u733124.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pasted%20image%20959x427-crop-u733225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/nasaastrobioimage_crop-crop-u733195.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_6983-crop-u765395.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lecture%205_minerals_fa2020_part2-crop-u733125.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pasted%20image%20959x427-crop-u733226.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/nasaastrobioimage_crop-crop-u733196.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_6983-crop-u765396.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lecture%205_minerals_fa2020_part2-crop-u733126.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pasted%20image%20959x427-crop-u733227.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/nasaastrobioimage_crop-crop-u733197.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_6983-crop-u765397.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lecture%205_minerals_fa2020_part2-crop-u733127.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pasted%20image%20959x427-crop-u733228.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/nasaastrobioimage_crop-crop-u733198.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_6983-crop-u765398.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/lecture%205_minerals_fa2020_part2-crop-u733128.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://dartmouthmaglab.github.io/assets/slotznick_nwgeology-2015.pdf</loc>
     <lastmod>2016-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dartmouthmaglab.github.io/assets/cv_2020_10_slotznick.pdf</loc>
-    <lastmod>2020-10-25</lastmod>
+    <loc>https://dartmouthmaglab.github.io/assets/cv_2021_4_slotznick_web.pdf</loc>
+    <lastmod>2021-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
