@@ -1,24 +1,24 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://dartmouthmaglab.github.io" resolutions="1x" timestamp="1626726561509">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://dartmouthmaglab.github.io" resolutions="1x" timestamp="1626730897166">
   <folder name="css">
     <file name="site_global.css" crc="3880766925"/>
-    <file name="master_footeronly.css" crc="417455609" ref="index"/>
-    <file name="nomq_preview_master_footeronly.css" crc="3771749679" ref="index"/>
-    <file name="master_a-master.css" crc="227150393" ref="facilities:contact:research:publications:people:teaching"/>
-    <file name="nomq_preview_master_a-master.css" crc="238418627" ref="facilities:contact:research:publications:people:teaching"/>
-    <file name="facilities.css" crc="3974242190" ref="facilities"/>
+    <file name="master_footeronly.css" crc="4197165676" ref="index"/>
+    <file name="nomq_preview_master_footeronly.css" crc="407252772" ref="index"/>
+    <file name="master_a-master.css" crc="4166332148" ref="facilities:contact:research:publications:people:teaching"/>
+    <file name="nomq_preview_master_a-master.css" crc="3822747951" ref="facilities:contact:research:publications:people:teaching"/>
+    <file name="facilities.css" crc="25966727" ref="facilities"/>
     <file name="nomq_facilities.css" crc="291417898" ref="facilities"/>
-    <file name="contact.css" crc="4268309708" ref="contact"/>
-    <file name="nomq_contact.css" crc="3945906216" ref="contact"/>
-    <file name="research.css" crc="60285198" ref="research"/>
-    <file name="nomq_research.css" crc="254194679" ref="research"/>
-    <file name="index.css" crc="4167155587" ref="index"/>
-    <file name="nomq_index.css" crc="4175534094" ref="index"/>
-    <file name="publications.css" crc="3793692073" ref="publications"/>
+    <file name="contact.css" crc="261801432" ref="contact"/>
+    <file name="nomq_contact.css" crc="408246625" ref="contact"/>
+    <file name="research.css" crc="3912588770" ref="research"/>
+    <file name="nomq_research.css" crc="330422164" ref="research"/>
+    <file name="index.css" crc="4246989289" ref="index"/>
+    <file name="nomq_index.css" crc="483729884" ref="index"/>
+    <file name="publications.css" crc="4136332053" ref="publications"/>
     <file name="nomq_publications.css" crc="4111665844" ref="publications"/>
-    <file name="people.css" crc="253136551" ref="people"/>
-    <file name="nomq_people.css" crc="3851613756" ref="people"/>
-    <file name="teaching.css" crc="85513245" ref="teaching"/>
-    <file name="nomq_teaching.css" crc="3777938919" ref="teaching"/>
+    <file name="people.css" crc="315276337" ref="people"/>
+    <file name="nomq_people.css" crc="3921810799" ref="people"/>
+    <file name="teaching.css" crc="170914569" ref="teaching"/>
+    <file name="nomq_teaching.css" crc="323818109" ref="teaching"/>
   </folder>
   <folder name="assets">
     <file name="slotznick_nwgeology-2015.pdf" crc="168263411" seo="true" mt="1460157206000"/>
@@ -38,15 +38,6 @@
   </folder>
   <folder name="images">
     <file name="img_20150724_135012-crop-u153.jpg" crc="4057707492" seo="true" ref="people:research:facilities:publications:contact:teaching">
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
@@ -55,23 +46,6 @@
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
       <caption webpage="teaching" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
@@ -80,6 +54,32 @@
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
@@ -104,31 +104,6 @@
       <caption webpage="people" alt=""/>
     </file>
     <file name="lonepine_black.png" crc="325230627" seo="true" ref="people:research:facilities:publications:contact:index:teaching">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
@@ -137,24 +112,6 @@
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
@@ -163,33 +120,51 @@
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
     </file>
     <file name="dartmouth_wordmark_blk.png" crc="3978973633" seo="true" ref="people:research:facilities:publications:contact:index:teaching">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
-      <caption webpage="people" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
@@ -198,24 +173,6 @@
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
@@ -224,6 +181,49 @@
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
     </file>
     <file name="dylan on gile 19w-crop-u683772.jpg" crc="3832541577" seo="true" ref="people">
       <caption webpage="people" alt=""/>
@@ -601,11 +601,11 @@
       <caption webpage="facilities" alt=""/>
     </file>
   </folder>
-  <file name="people.html" crc="3946432383" seo="true" mt="1626721218130" redirect="true"/>
-  <file name="research.html" crc="3867481099" seo="true" mt="1626717047389" redirect="true"/>
-  <file name="facilities.html" crc="143006622" seo="true" mt="1626717047389" redirect="true"/>
-  <file name="publications.html" crc="310324303" seo="true" mt="1626717047389" redirect="true"/>
-  <file name="contact.html" crc="110631865" seo="true" mt="1626717047389" redirect="true"/>
-  <file name="index.html" crc="4152030984" seo="true" mt="1626706635154" redirect="true"/>
-  <file name="teaching.html" crc="3869210186" seo="true" mt="1626717047389" redirect="true"/>
+  <file name="people.html" crc="4078184148" seo="true" mt="1626730097469" redirect="true"/>
+  <file name="research.html" crc="3906002993" seo="true" mt="1626730097469" redirect="true"/>
+  <file name="facilities.html" crc="3952399386" seo="true" mt="1626730097469" redirect="true"/>
+  <file name="publications.html" crc="3947347255" seo="true" mt="1626730097469" redirect="true"/>
+  <file name="contact.html" crc="4092496635" seo="true" mt="1626730097469" redirect="true"/>
+  <file name="index.html" crc="171746052" seo="true" mt="1626730557627" redirect="true"/>
+  <file name="teaching.html" crc="252801405" seo="true" mt="1626730097469" redirect="true"/>
 </manifest>
