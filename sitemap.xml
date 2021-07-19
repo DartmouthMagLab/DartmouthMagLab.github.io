@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dartmouthmaglab.github.io/index.html</loc>
-    <lastmod>2021-04-05</lastmod>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -41,7 +41,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/facilities.html</loc>
-    <lastmod>2021-04-05</lastmod>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -54,42 +54,45 @@
       <image:loc>https://dartmouthmaglab.github.io/images/dartmouth_wordmark_blk.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/lab_construction_img_3586_v2.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/p5156432.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u74689.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746892.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/p5156432458x343.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746893.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288458x343.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746894.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/p5156432366x275.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746895.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288366x275.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746896.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/p5156432305x229.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746897.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288305x229.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746898.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/p5156432247x185.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/lab_construction_img_3586_v2349x354.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288247x185.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288-crop-u746899.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/p5156432181x136.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/p3226288181x136.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/publications.html</loc>
-    <lastmod>2021-04-05</lastmod>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -104,7 +107,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/people.html</loc>
-    <lastmod>2021-04-05</lastmod>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -115,9 +118,6 @@
     </image:image>
     <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/dylan%20on%20gile%2019w-crop-u68377.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/theoearspic.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/lonepine_black.png</image:loc>
@@ -176,10 +176,70 @@
     <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/jack_picture_img_7413-crop-u736999.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dsc_0401-2-crop-u83330.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/bensonphoto.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/20180123_102356.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_1526-crop-u83964.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dsc_0401-2-crop-u833302.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_1526-crop-u839642.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dsc_0401-2-crop-u833303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_1526-crop-u839643.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dsc_0401-2-crop-u833304.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_1526-crop-u839644.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dsc_0401-2-crop-u833305.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_1526-crop-u839645.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dsc_0401-2-crop-u833306.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_1526-crop-u839646.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dsc_0401-2-crop-u833307.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_1526-crop-u839647.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dsc_0401-2-crop-u833308.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_1526-crop-u839648.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/dsc_0401-2-crop-u833309.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/img_1526-crop-u839649.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/research.html</loc>
-    <lastmod>2021-04-05</lastmod>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -203,7 +263,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/contact.html</loc>
-    <lastmod>2021-04-05</lastmod>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -221,7 +281,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/teaching.html</loc>
-    <lastmod>2021-04-05</lastmod>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -346,8 +406,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dartmouthmaglab.github.io/assets/cv_2021_4_slotznick_web.pdf</loc>
-    <lastmod>2021-04-03</lastmod>
+    <loc>https://dartmouthmaglab.github.io/assets/cv_2021_7_slotznick_web.pdf</loc>
+    <lastmod>2021-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
