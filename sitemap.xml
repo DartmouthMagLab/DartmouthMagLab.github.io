@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dartmouthmaglab.github.io/index.html</loc>
-    <lastmod>2021-07-19</lastmod>
+    <lastmod>2022-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -41,7 +41,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/facilities.html</loc>
-    <lastmod>2021-07-19</lastmod>
+    <lastmod>2022-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -57,42 +57,42 @@
       <image:loc>https://dartmouthmaglab.github.io/images/p5156432.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/p5156432458x343.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288458x343.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/p5156432366x275.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288366x275.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/p5156432305x229.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288305x229.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/p5156432247x185.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288247x185.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://dartmouthmaglab.github.io/images/p5156432181x136.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://dartmouthmaglab.github.io/images/p3226288181x136.jpg</image:loc>
+      <image:loc>https://dartmouthmaglab.github.io/images/pa068110.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pa068110458x343.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pa068110366x275.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pa068110305x229.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pa068110247x185.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dartmouthmaglab.github.io/images/pa068110181x136.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/publications.html</loc>
-    <lastmod>2021-07-19</lastmod>
+    <lastmod>2022-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -107,7 +107,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/people.html</loc>
-    <lastmod>2021-07-19</lastmod>
+    <lastmod>2022-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -239,7 +239,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/research.html</loc>
-    <lastmod>2021-07-19</lastmod>
+    <lastmod>2022-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -263,7 +263,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/contact.html</loc>
-    <lastmod>2021-07-19</lastmod>
+    <lastmod>2022-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -281,7 +281,7 @@
   </url>
   <url>
     <loc>https://dartmouthmaglab.github.io/teaching.html</loc>
-    <lastmod>2021-07-19</lastmod>
+    <lastmod>2022-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -406,8 +406,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dartmouthmaglab.github.io/assets/cv_2021_7_slotznick_web.pdf</loc>
-    <lastmod>2021-07-19</lastmod>
+    <loc>https://dartmouthmaglab.github.io/assets/cv_2022_1_slotznick.pdf</loc>
+    <lastmod>2022-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
