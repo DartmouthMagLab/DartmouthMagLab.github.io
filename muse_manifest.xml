@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://dartmouthmaglab.github.io" resolutions="1x" timestamp="1658072724447">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://dartmouthmaglab.github.io" resolutions="1x" timestamp="1658073585777">
   <folder name="css">
     <file name="site_global.css" crc="3864510681"/>
     <file name="master_footeronly.css" crc="3828370944" ref="index"/>
     <file name="nomq_preview_master_footeronly.css" crc="3771749679" ref="index"/>
-    <file name="master_a-master.css" crc="4031832158" ref="facilities:contact:research:publications:people:teaching"/>
-    <file name="nomq_preview_master_a-master.css" crc="163624781" ref="facilities:contact:research:publications:people:teaching"/>
+    <file name="master_a-master.css" crc="4197019259" ref="facilities:contact:research:publications:people:teaching"/>
+    <file name="nomq_preview_master_a-master.css" crc="333964721" ref="facilities:contact:research:publications:people:teaching"/>
     <file name="facilities.css" crc="3914674507" ref="facilities"/>
     <file name="nomq_facilities.css" crc="424110913" ref="facilities"/>
     <file name="contact.css" crc="4268309708" ref="contact"/>
@@ -15,8 +15,8 @@
     <file name="nomq_index.css" crc="4175534094" ref="index"/>
     <file name="publications.css" crc="173877949" ref="publications"/>
     <file name="nomq_publications.css" crc="441338957" ref="publications"/>
-    <file name="people.css" crc="457328905" ref="people"/>
-    <file name="nomq_people.css" crc="4201936448" ref="people"/>
+    <file name="people.css" crc="4080839811" ref="people"/>
+    <file name="nomq_people.css" crc="3959546279" ref="people"/>
     <file name="teaching.css" crc="3929031304" ref="teaching"/>
     <file name="nomq_teaching.css" crc="3777938919" ref="teaching"/>
   </folder>
@@ -682,7 +682,7 @@
       <caption webpage="people" alt=""/>
     </file>
   </folder>
-  <file name="people.html" crc="3907477076" seo="true" mt="1658071876600" redirect="true"/>
+  <file name="people.html" crc="3960391001" seo="true" mt="1658073562660" redirect="true"/>
   <file name="research.html" crc="3855221663" seo="true" mt="1641417760902" redirect="true"/>
   <file name="facilities.html" crc="533066877" seo="true" mt="1658023222129" redirect="true"/>
   <file name="publications.html" crc="3886763799" seo="true" mt="1658023151106" redirect="true"/>
