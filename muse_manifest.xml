@@ -1,29 +1,30 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://dartmouthmaglab.github.io" resolutions="1x,2x" timestamp="1693452077510">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://dartmouthmaglab.github.io" resolutions="1x,2x" timestamp="1704145404499">
   <folder name="css">
-    <file name="site_global.css" crc="3864510681"/>
+    <file name="site_global.css" crc="3880766925"/>
     <file name="master_footeronly.css" crc="4264433620" ref="index"/>
     <file name="nomq_preview_master_footeronly.css" crc="3808148452" ref="index"/>
-    <file name="master_a-master.css" crc="4145309183" ref="research:contact:teaching:facilities:people:publications"/>
-    <file name="nomq_preview_master_a-master.css" crc="4186354445" ref="research:contact:teaching:facilities:people:publications"/>
-    <file name="research.css" crc="4262745827" ref="research"/>
-    <file name="nomq_research.css" crc="440040386" ref="research"/>
-    <file name="contact.css" crc="323226068" ref="contact"/>
-    <file name="nomq_contact.css" crc="4029824377" ref="contact"/>
-    <file name="teaching.css" crc="266095666" ref="teaching"/>
-    <file name="nomq_teaching.css" crc="40184505" ref="teaching"/>
-    <file name="facilities.css" crc="175210863" ref="facilities"/>
-    <file name="nomq_facilities.css" crc="435733803" ref="facilities"/>
-    <file name="people.css" crc="472327116" ref="people"/>
-    <file name="nomq_people.css" crc="4032731696" ref="people"/>
-    <file name="publications.css" crc="4019800604" ref="publications"/>
-    <file name="nomq_publications.css" crc="3842905246" ref="publications"/>
+    <file name="master_a-master.css" crc="3939728837" ref="research:contact:teaching:facilities:people:publications"/>
+    <file name="nomq_preview_master_a-master.css" crc="518045421" ref="research:contact:teaching:facilities:people:publications"/>
+    <file name="research.css" crc="4180002743" ref="research"/>
+    <file name="nomq_research.css" crc="259955449" ref="research"/>
+    <file name="contact.css" crc="259426291" ref="contact"/>
+    <file name="nomq_contact.css" crc="386056552" ref="contact"/>
+    <file name="teaching.css" crc="3949581894" ref="teaching"/>
+    <file name="nomq_teaching.css" crc="259997411" ref="teaching"/>
+    <file name="facilities.css" crc="3800387690" ref="facilities"/>
+    <file name="nomq_facilities.css" crc="94616035" ref="facilities"/>
+    <file name="people.css" crc="66108479" ref="people"/>
+    <file name="nomq_people.css" crc="3810118344" ref="people"/>
+    <file name="publications.css" crc="3825435342" ref="publications"/>
+    <file name="nomq_publications.css" crc="154469390" ref="publications"/>
     <file name="index.css" crc="4255214333" ref="index"/>
     <file name="nomq_index.css" crc="4051746004" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="slotznick_nwgeology-2015.pdf" crc="168263411" seo="true" mt="1460157206000"/>
     <file name="slotznick_gsasp522_2016.pdf" crc="3889205830" seo="true" mt="1489184513000"/>
-    <file name="cv_2023_8_slotznick.pdf" crc="3891124133" seo="true" mt="1693433287000"/>
+    <file name="slotznick_etal_2023_author_version.pdf" crc="4037524648" seo="true" mt="1694124441000"/>
+    <file name="cv_2024_1_slotznick.pdf" crc="339144097" seo="true" mt="1704130694000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="people:research:facilities:publications:contact:index:teaching"/>
@@ -37,16 +38,17 @@
     <file name="require.js" crc="4177726516" ref="people:research:facilities:publications:contact:index:teaching"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3996462375" ref="people"/>
+    <file name="favicon.ico" crc="3996462375" ref="people:research"/>
     <file name="img_20150724_135012-crop-u153.jpg" crc="4060383227" seo="true" ref="people:research:facilities:publications:contact:teaching">
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
@@ -56,14 +58,6 @@
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
@@ -72,15 +66,6 @@
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
@@ -89,6 +74,22 @@
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
     </file>
     <file name="pa258457-crop-u30711.jpg" crc="3800204123" seo="true" ref="people">
       <caption webpage="people" alt=""/>
@@ -124,20 +125,6 @@
       <caption webpage="people" alt=""/>
     </file>
     <file name="lonepine_black.png" crc="3842226854" seo="true" ref="people:research:facilities:publications:contact:index:teaching">
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="facilities" alt=""/>
       <caption webpage="facilities" alt=""/>
       <caption webpage="facilities" alt=""/>
@@ -153,6 +140,13 @@
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -176,22 +170,15 @@
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="dartmouth_wordmark_blk.png" crc="4054153855" seo="true" ref="people:research:facilities:publications:contact:index:teaching">
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="facilities" alt=""/>
       <caption webpage="facilities" alt=""/>
       <caption webpage="facilities" alt=""/>
@@ -207,6 +194,13 @@
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -230,6 +224,13 @@
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="pa258457-crop-u307112.jpg" crc="3800204123" seo="true" ref="people">
       <caption webpage="people" alt=""/>
@@ -310,50 +311,6 @@
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
-    </file>
-    <file name="p5156432.jpg" crc="251732582" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110.jpg" crc="4071076423" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432458x343.jpg" crc="4007339965" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110458x343.jpg" crc="451041108" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432366x275.jpg" crc="344315944" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110366x275.jpg" crc="3841861156" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432305x229.jpg" crc="4221740150" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110305x229.jpg" crc="4159210975" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432247x185.jpg" crc="4093067970" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110247x185.jpg" crc="3857787716" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432181x136.jpg" crc="63931855" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110181x136.jpg" crc="3940387206" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="580b57fcd9996e24bc43c53e.png" crc="134703156" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
     </file>
     <file name="img_20150724_135012-crop-u55790.jpg" crc="4069091313" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -538,14 +495,15 @@
       <caption webpage="people" alt=""/>
     </file>
     <file name="img_20150724_135012-crop-u153_2x.jpg" crc="4267875271" seo="true" ref="people:research:facilities:publications:contact:teaching">
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
@@ -555,14 +513,6 @@
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
@@ -571,15 +521,6 @@
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
-      <caption webpage="facilities" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
@@ -588,6 +529,22 @@
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
     </file>
     <file name="pa258457-crop-u30711_2x.jpg" crc="4290690501" seo="true" ref="people">
       <caption webpage="people" alt=""/>
@@ -626,20 +583,6 @@
       <caption webpage="people" alt=""/>
     </file>
     <file name="lonepine_black_2x.png" crc="279637130" seo="true" ref="people:research:facilities:publications:contact:index:teaching">
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="facilities" alt=""/>
       <caption webpage="facilities" alt=""/>
       <caption webpage="facilities" alt=""/>
@@ -655,6 +598,13 @@
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -678,22 +628,15 @@
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="dartmouth_wordmark_blk_2x.png" crc="286766557" seo="true" ref="people:research:facilities:publications:contact:index:teaching">
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="teaching" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="facilities" alt=""/>
       <caption webpage="facilities" alt=""/>
       <caption webpage="facilities" alt=""/>
@@ -709,6 +652,13 @@
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
+      <caption webpage="teaching" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -732,6 +682,13 @@
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="pa258457-crop-u30711_2x2.jpg" crc="4290690501" seo="true" ref="people">
       <caption webpage="people" alt=""/>
@@ -830,21 +787,21 @@
     <file name="spencermeek-crop-u73699_2x9.jpg" crc="59074358" seo="true" ref="people">
       <caption webpage="people" alt=""/>
     </file>
-    <file name="lonepine_black35x62.png" crc="4223806826" seo="true" ref="people">
-      <caption webpage="research" alt=""/>
+    <file name="lonepine_black35x62.png" crc="4223806826" seo="true" ref="people:research">
       <caption webpage="people" alt=""/>
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="lonepine_black35x62_2x.png" crc="4049743503" seo="true" ref="people">
-      <caption webpage="research" alt=""/>
+    <file name="lonepine_black35x62_2x.png" crc="4049743503" seo="true" ref="people:research">
       <caption webpage="people" alt=""/>
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="dartmouth_wordmark_blk228x24.png" crc="3810012157" seo="true" ref="people">
-      <caption webpage="research" alt=""/>
+    <file name="dartmouth_wordmark_blk228x24.png" crc="3810012157" seo="true" ref="people:research">
       <caption webpage="people" alt=""/>
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="dartmouth_wordmark_blk228x24_2x.png" crc="4276628205" seo="true" ref="people">
-      <caption webpage="research" alt=""/>
+    <file name="dartmouth_wordmark_blk228x24_2x.png" crc="4276628205" seo="true" ref="people:research">
       <caption webpage="people" alt=""/>
+      <caption webpage="research" alt=""/>
     </file>
     <file name="img_5768_2x.jpg" crc="220588878" seo="true" ref="research">
       <caption webpage="research" alt=""/>
@@ -875,132 +832,6 @@
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
       <caption webpage="research" alt=""/>
-    </file>
-    <file name="p5156432_2x.jpg" crc="4219964706" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110_2x.jpg" crc="4133690521" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432605x454.jpg" crc="4115024059" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432605x454_2x.jpg" crc="4284774278" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110605x454.jpg" crc="4056042491" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110605x454_2x.jpg" crc="535947492" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432506x380.jpg" crc="213262440" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432506x380_2x.jpg" crc="458810880" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110506x380.jpg" crc="515463373" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110506x380_2x.jpg" crc="3983102171" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432505x379.jpg" crc="404211576" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432505x379_2x.jpg" crc="123201311" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110505x379.jpg" crc="225861159" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110505x379_2x.jpg" crc="3855291668" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432458x343_2x.jpg" crc="3816263003" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110458x343_2x.jpg" crc="3965910768" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432366x275_2x.jpg" crc="3791825453" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110366x275_2x.jpg" crc="4147448205" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432305x229_2x.jpg" crc="3927530606" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110305x229_2x.jpg" crc="4187636623" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432247x185_2x.jpg" crc="51413108" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110247x185_2x.jpg" crc="4269642568" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="p5156432181x136_2x.jpg" crc="292324633" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="pa068110181x136_2x.jpg" crc="4118323506" seo="true" ref="facilities">
-      <caption webpage="facilities" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u94083.jpg" crc="3860412047" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u94083_2x.jpg" crc="422625377" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u940832.jpg" crc="3860412047" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u94083_2x2.jpg" crc="422625377" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u940833.jpg" crc="3860412047" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u94083_2x3.jpg" crc="422625377" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u940834.jpg" crc="3860412047" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u94083_2x4.jpg" crc="422625377" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u940835.jpg" crc="3860412047" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u94083_2x5.jpg" crc="422625377" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u940836.jpg" crc="3860412047" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u94083_2x6.jpg" crc="422625377" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u940837.jpg" crc="3860412047" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u94083_2x7.jpg" crc="422625377" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u940838.jpg" crc="116684229" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u94083_2x8.jpg" crc="6667442" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u940839.jpg" crc="116684229" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="london_pxl_20221016_214938798mp-crop-u94083_2x9.jpg" crc="6667442" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
     </file>
     <file name="pp13-11a14(up)_cropbri-crop-u101555.jpg" crc="357204605" seo="true" ref="research">
       <caption webpage="research" alt=""/>
@@ -1092,44 +923,8 @@
     <file name="u72455_states-r_2x.png" crc="513903303" ref="people:research:facilities:publications:contact:teaching"/>
     <file name="u72455_states-a.png" crc="500836571" ref="people:research:facilities:publications:contact:teaching"/>
     <file name="u72455_states-a_2x.png" crc="513903303" ref="people:research:facilities:publications:contact:teaching"/>
-    <file name="pa201801_editedcrop-crop-u103221.jpg" crc="345057990" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u103221_2x.jpg" crc="4284508501" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="u6986-4.png" crc="4158297920" ref="people:research:facilities:publications:contact:teaching"/>
-    <file name="u6986-4_2x.png" crc="3935874627" ref="people:research:facilities:publications:contact:teaching"/>
-    <file name="pa201801_editedcrop-crop-u1032212.jpg" crc="217275461" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u103221_2x2.jpg" crc="3762747989" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u1032213.jpg" crc="348997965" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u103221_2x3.jpg" crc="3975617782" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u1032214.jpg" crc="3763567888" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u103221_2x4.jpg" crc="158077829" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u1032215.jpg" crc="4222341510" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u103221_2x5.jpg" crc="258875307" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u1032216.jpg" crc="3810491311" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u103221_2x6.jpg" crc="172300140" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
+    <file name="u6986-4.png" crc="4237181853" ref="people:research:facilities:publications:contact:teaching"/>
+    <file name="u6986-4_2x.png" crc="4039041488" ref="people:research:facilities:publications:contact:teaching"/>
     <file name="u66346.png" crc="357931296" ref="people:research:facilities:publications:contact:teaching"/>
     <file name="u66346_2x.png" crc="4180977794" ref="people:research:facilities:publications:contact:teaching"/>
     <file name="u66346-r.png" crc="46894423" ref="people:research:facilities:publications:contact:teaching"/>
@@ -1180,12 +975,6 @@
     <file name="u66344_states-r_2x.png" crc="513903303" ref="people:research:facilities:publications:contact:teaching"/>
     <file name="u66344_states-a.png" crc="500836571" ref="people:research:facilities:publications:contact:teaching"/>
     <file name="u66344_states-a_2x.png" crc="513903303" ref="people:research:facilities:publications:contact:teaching"/>
-    <file name="pa201801_editedcrop-crop-u1032217.jpg" crc="4184173230" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u103221_2x7.jpg" crc="409080808" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
     <file name="u64424.png" crc="339776885" ref="people:research:facilities:publications:contact:teaching"/>
     <file name="u64424_2x.png" crc="3788228554" ref="people:research:facilities:publications:contact:teaching"/>
     <file name="u64424-r.png" crc="4187212828" ref="people:research:facilities:publications:contact:teaching"/>
@@ -1236,38 +1025,6 @@
     <file name="u72782_states-r_2x.png" crc="3928836738" ref="people:research:facilities:publications:contact:teaching"/>
     <file name="u72782_states-a.png" crc="492523026" ref="people:research:facilities:publications:contact:teaching"/>
     <file name="u72782_states-a_2x.png" crc="3928836738" ref="people:research:facilities:publications:contact:teaching"/>
-    <file name="pa201801_editedcrop-crop-u1032218.jpg" crc="4149526305" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u103221_2x8.jpg" crc="224510991" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u1032219.jpg" crc="4144950773" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="pa201801_editedcrop-crop-u103221_2x9.jpg" crc="434724861" seo="true" ref="people">
-      <caption webpage="people" alt=""/>
-    </file>
-    <file name="580b57fcd9996e24bc43c53e_2x.png" crc="4272173564" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="580b57fcd9996e24bc43c53e41x41.png" crc="342521162" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="580b57fcd9996e24bc43c53e41x41_2x.png" crc="3843701597" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="580b57fcd9996e24bc43c53e30x30.png" crc="285399115" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="580b57fcd9996e24bc43c53e30x30_2x.png" crc="29333443" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
     <file name="img_20150724_135012-crop-u55790_2x.jpg" crc="3787749205" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1299,8 +1056,8 @@
     <file name="u75800_states_2x.png" crc="435644107" ref="index"/>
     <file name="u75800_states-r.png" crc="500836571" ref="index"/>
     <file name="u75800_states-r_2x.png" crc="513903303" ref="index"/>
-    <file name="u56140-4.png" crc="4158297920" ref="index"/>
-    <file name="u56140-4_2x.png" crc="3935874627" ref="index"/>
+    <file name="u56140-4.png" crc="4237181853" ref="index"/>
+    <file name="u56140-4_2x.png" crc="4039041488" ref="index"/>
     <file name="img_20150724_135012-crop-u55790_2x2.jpg" crc="211697175" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1655,12 +1412,424 @@
     <file name="img_6983-crop-u76539_2x8.jpg" crc="4000012350" seo="true" ref="teaching">
       <caption webpage="teaching" alt=""/>
     </file>
+    <file name="pb086934_crop-crop-u103221.jpg" crc="350577520" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u103221_2x.jpg" crc="4166970369" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="juliya_image.jpg" crc="3834416517" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="juliya_image_2x.jpg" crc="497435213" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u110110.jpg" crc="4153782430" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u110110_2x.jpg" crc="133763966" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u109075.jpg" crc="4285844620" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u109075_2x.jpg" crc="3965683885" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u107439.jpg" crc="345057990" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u107439_2x.jpg" crc="4284508501" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u1032212.jpg" crc="350577520" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u103221_2x2.jpg" crc="4166970369" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u1101102.jpg" crc="4153782430" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u110110_2x2.jpg" crc="133763966" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u1090752.jpg" crc="4285844620" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u109075_2x2.jpg" crc="3965683885" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u1074392.jpg" crc="217275461" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u107439_2x2.jpg" crc="3762747989" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u1032213.jpg" crc="4147592299" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u103221_2x3.jpg" crc="37751543" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u1101103.jpg" crc="4153782430" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u110110_2x3.jpg" crc="133763966" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u1090753.jpg" crc="4285844620" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u109075_2x3.jpg" crc="3965683885" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u1074393.jpg" crc="348997965" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u107439_2x3.jpg" crc="3975617782" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u1032214.jpg" crc="491381647" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u103221_2x4.jpg" crc="405945786" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u1101104.jpg" crc="4153782430" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u110110_2x4.jpg" crc="133763966" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u1090754.jpg" crc="4285844620" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u109075_2x4.jpg" crc="3965683885" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u1074394.jpg" crc="3763567888" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u107439_2x4.jpg" crc="158077829" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u1032215.jpg" crc="4101321124" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u103221_2x5.jpg" crc="70153296" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u1101105.jpg" crc="4153782430" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u110110_2x5.jpg" crc="133763966" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u1090755.jpg" crc="4285844620" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u109075_2x5.jpg" crc="3965683885" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u1074395.jpg" crc="4222341510" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u107439_2x5.jpg" crc="258875307" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u1032216.jpg" crc="481429517" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u103221_2x6.jpg" crc="4123884920" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u1101106.jpg" crc="4153782430" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u110110_2x6.jpg" crc="133763966" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u1090756.jpg" crc="4285844620" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u109075_2x6.jpg" crc="3965683885" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u1074396.jpg" crc="3810491311" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u107439_2x6.jpg" crc="172300140" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u1032217.jpg" crc="225219936" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u103221_2x7.jpg" crc="39866742" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u1101107.jpg" crc="4153782430" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u110110_2x7.jpg" crc="133763966" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u1090757.jpg" crc="4285844620" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u109075_2x7.jpg" crc="3965683885" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u1074397.jpg" crc="4184173230" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u107439_2x7.jpg" crc="409080808" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u1032218.jpg" crc="3985068664" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u103221_2x8.jpg" crc="4115734153" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="juliya_image156x185.jpg" crc="89177769" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="juliya_image156x185_2x.jpg" crc="436850990" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u1101108.jpg" crc="13906782" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u110110_2x8.jpg" crc="3995344127" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u1090758.jpg" crc="483876673" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u109075_2x8.jpg" crc="4104699438" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u1074398.jpg" crc="4149526305" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u107439_2x8.jpg" crc="224510991" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u1032219.jpg" crc="3903258454" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pb086934_crop-crop-u103221_2x9.jpg" crc="427050349" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u1101109.jpg" crc="13906782" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="napu_img_1641-crop-u110110_2x9.jpg" crc="3995344127" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u1090759.jpg" crc="483876673" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="reva_img_4711-crop-u109075_2x9.jpg" crc="4104699438" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u1074399.jpg" crc="4144950773" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pa201801_editedcrop-crop-u107439_2x9.jpg" crc="434724861" seo="true" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="pc217326.jpg" crc="4155136267" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326_2x.jpg" crc="134224669" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621.jpg" crc="349441332" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621_2x.jpg" crc="4153726139" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326605x454.jpg" crc="4050438546" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326605x454_2x.jpg" crc="155352246" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621605x454.jpg" crc="218336183" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621605x454_2x.jpg" crc="3966515891" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326506x380.jpg" crc="3765166679" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326506x380_2x.jpg" crc="3783045635" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621506x380.jpg" crc="473123775" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621506x380_2x.jpg" crc="133607727" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326505x379.jpg" crc="185329465" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326505x379_2x.jpg" crc="3993785886" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621505x379.jpg" crc="3908075287" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621505x379_2x.jpg" crc="4217635437" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326458x343.jpg" crc="206142585" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326458x343_2x.jpg" crc="4037408627" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621458x343.jpg" crc="3770107310" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621458x343_2x.jpg" crc="4158047727" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326366x275.jpg" crc="4203804485" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326366x275_2x.jpg" crc="4187349378" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621366x275.jpg" crc="263167685" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621366x275_2x.jpg" crc="208584353" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326305x229.jpg" crc="3804622934" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326305x229_2x.jpg" crc="3926439435" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621305x229.jpg" crc="3878902896" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621305x229_2x.jpg" crc="304481898" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326247x185.jpg" crc="147531071" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326247x185_2x.jpg" crc="4071923892" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621247x185.jpg" crc="4247916518" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621247x185_2x.jpg" crc="4272154848" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326181x136.jpg" crc="4288201727" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="pc217326181x136_2x.jpg" crc="4074029001" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621181x136.jpg" crc="4141655074" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="p7280621181x136_2x.jpg" crc="135886634" seo="true" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u67245.jpg" crc="3245697" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u67245_2x.jpg" crc="63015331" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="blueskylogo-64x64.jpg" crc="357163320" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u672452.jpg" crc="3245697" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u67245_2x2.jpg" crc="63015331" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u672453.jpg" crc="3245697" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u67245_2x3.jpg" crc="63015331" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u672454.jpg" crc="3245697" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u67245_2x4.jpg" crc="63015331" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u672455.jpg" crc="3245697" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u67245_2x5.jpg" crc="63015331" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u672456.jpg" crc="3245697" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u67245_2x6.jpg" crc="63015331" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u672457.jpg" crc="3897120882" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u67245_2x7.jpg" crc="3994039668" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="blueskylogo-64x6441x41.jpg" crc="296892510" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u672458.jpg" crc="3880886376" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10810-crop-u67245_2x8.jpg" crc="4169233630" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="blueskylogo-64x6430x30.jpg" crc="414826152" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
   </folder>
-  <file name="people.html" crc="347053426" seo="true" mt="1693450132724" redirect="true"/>
-  <file name="research.html" crc="4118883788" seo="true" mt="1693450132724" redirect="true"/>
-  <file name="facilities.html" crc="44919537" seo="true" mt="1693450132724" redirect="true"/>
-  <file name="publications.html" crc="3779502821" seo="true" mt="1693450132724" redirect="true"/>
-  <file name="contact.html" crc="526326257" seo="true" mt="1693450132724" redirect="true"/>
-  <file name="index.html" crc="3984787918" seo="true" mt="1693451485700" redirect="true"/>
-  <file name="teaching.html" crc="3960864372" seo="true" mt="1693450132724" redirect="true"/>
+  <file name="people.html" crc="3880748" seo="true" mt="1704140475619" redirect="true"/>
+  <file name="research.html" crc="75073402" seo="true" mt="1704139525955" redirect="true"/>
+  <file name="facilities.html" crc="55986833" seo="true" mt="1704139489883" redirect="true"/>
+  <file name="publications.html" crc="3914962976" seo="true" mt="1704131253187" redirect="true"/>
+  <file name="contact.html" crc="4203212443" seo="true" mt="1704139043000" redirect="true"/>
+  <file name="index.html" crc="342459243" seo="true" mt="1704056980275" redirect="true"/>
+  <file name="teaching.html" crc="412466562" seo="true" mt="1704129387952" redirect="true"/>
 </manifest>
